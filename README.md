@@ -1,1 +1,3 @@
-# myshop
+# MyShop
+
+## About
